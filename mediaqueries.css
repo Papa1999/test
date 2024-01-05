@@ -1,0 +1,50 @@
+@media screen and (max-width:1200px ){
+    
+    /* Header */
+    .c_header{
+        flex-direction: column;
+    }
+
+    .link_nav{
+        justify-content: space-around;
+    }
+
+    .icone{
+        margin: auto;
+    }
+
+    img[alt="Logo de RL" ]{
+        width: 100px;
+    }
+
+    a{
+        font-size: 2em;
+    }
+                /* Home Page */
+    
+    /* First Section */
+    #Profile{
+        flex-direction: column;
+    }
+
+    .two{
+        order:1;
+    }
+    
+    .one{
+        order: 2;
+    }
+}
+
+
+                /* Portfolio Page */
+
+.paysages, .portrait{
+    text-align: center;
+}
+
+.P_s1, .P_s2{
+    padding-left: 3rem;
+    padding-right: 3rem;
+
+}
