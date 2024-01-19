@@ -44,6 +44,10 @@ img:hover{
 	margin:0px;
 }
 
+html{
+	scroll-behavior: smooth;
+}
+
 a {
 	color:#242424;
 	text-decoration: none;
